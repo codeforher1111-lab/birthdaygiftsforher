@@ -2,7 +2,7 @@
 // This config file is optional; each page's own JS can be edited independently.
 const birthdayConfig = {
   herName: "Aanchal",
-  birthday: "2009-11-03", // YYYY-MM-DD
+  birthday: "2006-11-03", // YYYY-MM-DD
   signature: "From someone who cares for you deeply",
   songs: ["heeriye 1.mp3","hareya.mp3","tu meri bahon mein.mp3","kisi ne na kiya h.mp3","i think they call this love.mp3","tu chahiye.mp3","until i found you.mp3"],
   letter: [
