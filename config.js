@@ -3,7 +3,7 @@
 const birthdayConfig = {
   herName: "Aanchal",
   birthday: "2009-11-03", // YYYY-MM-DD
-  signature: "From Ridhii",
+  signature: "From someone who cares for you deeply",
   songs: ["heeriye 1.mp3","hareya.mp3","tu meri bahon mein.mp3","kisi ne na kiya h.mp3","i think they call this love.mp3","tu chahiye.mp3","until i found you.mp3"],
   letter: [
     "Today is a little reminder that the world is brighter because you are in it. You deserve to be celebrated not only for what you do, but simply for the person you are.",
