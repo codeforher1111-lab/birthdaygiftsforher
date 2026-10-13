@@ -23,7 +23,6 @@ const birthdayConfig = {
     ["One Flower","🌹","A flower for someone who deserves to be reminded of beauty, growth, and new beginnings."],
     ["Cute Keychain","💗","A tiny little thing to brighten an ordinary day."],
     ["Mahadev-Themed Gift","🔱","May Mahadev always bless you with strength, peace, protection, and the courage to follow your dreams. Har Har Mahadev."],
-    ["Skincare / Self-Care Kit","🧴","A gentle reminder to take care of yourself, rest when you need to, and treat yourself with kindness."],
     ["Cute Pocket Mirror","🪞","Whenever you look into this mirror, remember to see yourself with kindness and confidence."],
     ["Tiny Memory Notebook","📖","A little place for your thoughts, dreams, wishes, and beautiful moments yet to come."],
     ["Perfume","🧴","Some memories stay with us without needing a photograph. Maybe one day, a familiar fragrance will bring back a beautiful memory and make you smile for no particular reason. 🌷"],
