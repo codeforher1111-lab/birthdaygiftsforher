@@ -38,11 +38,15 @@ function escapeHtml(s) {
 // EDIT THIS FILE to change the birthday verification behaviour.
 document.getElementById('birthdayForm').addEventListener('submit', function(event) {
   event.preventDefault();
-  const entered = document.getElementById('birth').value;
-  if (entered === birthdayConfig.birthday) {
-    sessionStorage.setItem('birthdayUnlocked', 'yes');
-    window.location.href = 'wish.html';
-  } else {
-    document.getElementById('error').textContent = 'Hehe, try again, birthday girl! 🎀';
-  }
+  const entered = document.getElementById('birth').value.trim();
+const [year, month, day] = birthdayConfig.birthday.split('-');
+const correctBirthday = `${day}/${month}`;
+
+if (entered === correctBirthday) {
+  sessionStorage.setItem('birthdayUnlocked', 'yes');
+  window.location.href = 'wish.html';
+} else {
+  document.getElementById('error').textContent =
+    'Hehe, try again, birthday girl! 🎀';
+}
 });
